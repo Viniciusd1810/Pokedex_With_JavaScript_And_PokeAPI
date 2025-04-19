@@ -2,7 +2,7 @@
 
 :root {
     margin: 0;
-    background-color: rgba(230, 0, 0, .4);
+    background-color: rgba(255, 0, 0, .3);
 }
 
 * {
@@ -17,9 +17,10 @@
 
     & h1 {
         margin: 0;
-        text-aling: center;
+        padding: .5rem;
+        text-align: center;
         border-radius: 1rem;
-        background-color: rgba(230, 0, 0, .8);
+        background-color: rgba(230, 0, 0, .5);
     }
 }
 
